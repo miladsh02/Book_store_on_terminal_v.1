@@ -25,7 +25,7 @@ using System.Text;
                 GoToAddBook.AddBookNew();
                 break;
             case "2":
-                Console.Clear();
+                Console.Clear();                
                 AddBook GoToAddSecondHandBook = new AddBook();
                 GoToAddSecondHandBook.AddSecondHandBook();
                 break;
